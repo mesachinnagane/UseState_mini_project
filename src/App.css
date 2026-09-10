@@ -1,0 +1,20 @@
+.main {
+  text-align: center;
+  margin: 20px;
+  padding: 20px;
+  width: 500;
+  border: 2px solid black;
+  border-radius: 10px;
+}
+.main:hover {
+  box-shadow: 15px 15px 15px rgb(12, 12, 12);
+  margin: 16px;
+}
+
+.hmain {
+  text-shadow: 5px 8px 10px rgb(12, 12, 12);
+}
+.top {
+  display: flex;
+  justify-content: center;
+}
